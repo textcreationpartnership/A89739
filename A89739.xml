@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter concerning the storming and delivering up of the castle of the Devises unto Lieutenant Generall Cromwell, for the service of the King and Parliament. Sent to Mr. Samuel Bedford, Scout-master Generall to the Committee of Both Kingdoms. Read in the House of Commons, and commanded to be printed, by William Lenthall Esq; Speaker to the said House.</title>
+            <author>Norton, Ralph, fl. 1645.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89739</idno>
+            <idno type="STC">Wing N1326</idno>
+            <idno type="STC">Thomason E303_2</idno>
+            <idno type="STC">ESTC R200288</idno>
+            <idno type="EEBO-CITATION">99861094</idno>
+            <idno type="PROQUEST">99861094</idno>
+            <idno type="VID">113222</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89739)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113222)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E303[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter concerning the storming and delivering up of the castle of the Devises unto Lieutenant Generall Cromwell, for the service of the King and Parliament. Sent to Mr. Samuel Bedford, Scout-master Generall to the Committee of Both Kingdoms. Read in the House of Commons, and commanded to be printed, by William Lenthall Esq; Speaker to the said House.</title>
+                  <author>Norton, Ralph, fl. 1645.</author>
+                  <author>Bedford, Samuel.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husband, printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Sept. 25. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed on page 7: Your servant, Ralph Norton. Devises, 22. Sept. 1645. 7 at night.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Devizes (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113222:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>A LETTER CONCERNING The Storming and Delivering up of the CASTLE of the DEVISES unto Lieutenant Generall <hi>Cromwell,</hi> For the the Service of the KING and PARLIAMENT.</p>
+            <p>SENT To Mr. <hi>Samuel Bedford,</hi> Scout-Maſter Generall to the Committee of both KINGDOMS.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>REad in the Houſe of Commons, and Commanded to be Printed, by <hi>William Lenthall</hi> 
+                           <abbr>Eſq</abbr> Speaker to the ſaid Houſe.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London, Printed for <hi>Edw. Husband,</hi> Printer to the Honorable Houſe of Commons, <hi>Sept.</hi> 25. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113222:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="3" facs="tcp:113222:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>To Mr. <hi>Samuel Bedford,</hi> Scout-Maſter Generall to the Commit<g ref="char:EOLhyphen"/>tee of both Kingdoms.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He News at the <hi>Deviſes</hi> is this, Sunday at one of the Clock in the After<g ref="char:EOLhyphen"/>noon, Lieutenant Gene<g ref="char:EOLhyphen"/>rall <hi>Cromwell</hi> Summoned the Caſtle; The Governour ſent forth word, that the King his Maſter put him in truſt, and he deſired ten dayes time to ſend to him, and in the mean time he would keep it for the King. The Lieute<g ref="char:EOLhyphen"/>nant Generall wiſhed him not to let
+<pb n="4" facs="tcp:113222:3"/>
+               <!-- PDF PAGE 3 -->ſlip ſuch an opportunity; and if he would not yield it, he would give him leave to ſend forth his Lady, and ſuch other Gentlewomen as were in the Caſtle, and they ſhould be uſed with all civility that might be; And fur<g ref="char:EOLhyphen"/>ther certified him, that none were more fitting to keep ſtrong Holds, Forts, and Caſtles, then the Parlia<g ref="char:EOLhyphen"/>ment, for the uſe of the King: where<g ref="char:EOLhyphen"/>upon, the Governour ſent word, that if he would have it, he ſhould win it, and wear it. Upon receipt of this Anſwer, the Lieutenant Generall gave Command to the Canoneers, preſently to give fire, and alſo to the Morter peeces, which played very hot all night; and in the night we raiſed Batteries in the Market place, within Piſtoll ſhot of the Caſtle: On
+<pb n="5" facs="tcp:113222:3"/>
+               <!-- PDF PAGE 3 -->Monday about Eight of the Clock in the morning, the Governour ſent forth for a Parley, and ſent out two of his Captains, Captain <hi>Challenor,</hi> and Captain <hi>Garroway;</hi> the Lieutenant Generall ſent two Captains into them, and about eleven of the Clock, the Lieutenant Generall ſent them in theſe Propoſitions following: <hi>Viz.</hi>
+            </p>
+            <p n="1">I. That all Commanders and Gentlemen ſhould march to any Gar<g ref="char:EOLhyphen"/>riſon the King had, within Thirty miles, with their Horſe and Arms; And that all private Souldiers ſhould march away, leaving their Arms be<g ref="char:EOLhyphen"/>hinde them; but not to go to the ſame Garriſons the Commanders mar<g ref="char:EOLhyphen"/>ched to.</p>
+            <p n="2">II. That all Gentlemen in the Ca<g ref="char:EOLhyphen"/>ſtle, ſhould have liberty to go to their
+<pb n="6" facs="tcp:113222:4"/>
+               <!-- PDF PAGE 4 -->own homes, or beyond the Seas.</p>
+            <p n="3">III. That all Souldiers that have been formerly in the Parliaments Ser<g ref="char:EOLhyphen"/>vice, ſhould be delivered up to the Lieutenant Generall; and all Soul<g ref="char:EOLhyphen"/>diers that would take up Arms in the Parliaments Service, ſhould be en<g ref="char:EOLhyphen"/>tertained.</p>
+            <p>To theſe Propoſitions, the Lieute<g ref="char:EOLhyphen"/>nant Generall deſired his ſpeedy An<g ref="char:EOLhyphen"/>ſwer, that ſo they might march away by four of the Clock in the After<g ref="char:EOLhyphen"/>noon. The Governour condeſcen<g ref="char:EOLhyphen"/>ded to the Lieutenant Generalls de<g ref="char:EOLhyphen"/>ſire, and accordingly delivered up the Caſtle; and to morrow at Ten of the Clock, they are to march out of the Caſtle; the Governour and his Offi<g ref="char:EOLhyphen"/>cers with their Arms, and his Foot without Arms; and he is to have three
+<pb n="7" facs="tcp:113222:4"/>
+               <!-- PDF PAGE 4 -->VVayns to carry away his goods, and to have a ſafe Convoy to <hi>Worceſter:</hi> So I reſt,</p>
+            <closer>
+               <signed>Your Servant, <hi>Ralph Norton.</hi>
+               </signed>
+               <dateline>
+                  <hi>Deviſes,</hi> 
+                  <date>22. <hi>Sept.</hi> 1645. 7.</date> at night</dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
